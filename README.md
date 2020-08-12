@@ -1,1 +1,1 @@
-![](ezgiturali(1).png)
+![](ezgiturali (1).png)
