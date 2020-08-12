@@ -18,7 +18,6 @@ Bu yazıda, RStudio ile çalışırken üretkenliğinizi artırmaya yardımcı o
 
 | Kısa Yol | Açıklama |
 | ------ | ------ |
-| Ctrl + (istenen bölmeye karşılık gelen bir sayı):  | RStudio panelindeki sekmeler arasında gezmenize olanak tanır |
 | Ctrl + (sayı) + Shift:  | Bölmenin ekranı kaplamasını ayarlar |
 | Shift + Alt + t: | Terminal |
 | Ctrl + Enter: | Geçerli satırı çalıştırır ve bir sonrakine atlar veya daha fazla atlama yapmadan seçilen bölümü çalıştırır |
