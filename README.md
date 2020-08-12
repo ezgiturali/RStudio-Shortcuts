@@ -1,6 +1,8 @@
 ![](pack.png)
 Bu yazıda, RStudio ile çalışırken üretkenliğinizi artırmaya yardımcı olmak ve size zaman kazandırmak için en sevdiğim klavye kısa yollarının çoğunu derledim. Mac kullanıcıları için bu kısa yollar değişiklik gösterebilir, bu yazıda sadece PC kısa yollarından bahsedeceğim. Eklemeler için pull request'lere tamamen açıktır. 
 # Panel
+| Kısa Yol | Açıklama |
+| ------ | ------ |
 | Ctrl + (istenen bölmeye karşılık gelen bir sayı): | RStudio panelindeki sekmeler arasında gezmenize olanak tanır. |
  
 - 	Ctrl + 1: Source editor 
